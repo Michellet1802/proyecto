@@ -1,0 +1,31 @@
+Hola miss, es una pagina web de comidas de variiosrestaurantes tu 
+inicias sesión como administrador y puedes dar de alta tu restaurante y las
+comidas que ofreces.
+
+Administradores:  Todos ellos son admi pueden checar sus pedidos y agregar mas
+platillos. (Solo son algunos)
+aditi068    contraseña aditi	
+hojnskjn               nikhil
+
+Cada uno dio de alta su restaurante y varios platillos que manejan.
+-En la sección del administrador ves tu retaurante, puedes editar desde el 
+nombre hasta la dirección de este, ver tus platillos y editarlos, añadir mas
+platillos o eliminar comida.
+
+Puedes ver los usuarios que te han comprado 
+
+
+
+Usuario:
+Necesitas iniciar sesión para poder ver el menu, si no inicias sesión no podras
+ver el menu.
+Vas agregando al carrito lo que desees comprar.
+Puede ser pago en linea o al contado cuando se vaya a entregar tu comida.
+
+Nota:Cuando le pica en añadir al carrito la redirige a su carro de compras pero saldra que esta
+vacio, solo hay que darle nactualizar y ya saldra lo que agrego al carrito.
+
+<div class="tagline">No es nuestra <font color="red"><strong>vida laboral</strong></font>, 
+es el trabajo de nuestra <font color="green"><strong><em>vida</em>.</strong></font></div>
+
+div class="tagline">Animate a pedir en nuestro sitio web, somo la pagina oficial numero 1 de todo el pais. Calidad Garantizada. Proyecto Php Michelle Torres 17130070<font color = "green"></font></div>
